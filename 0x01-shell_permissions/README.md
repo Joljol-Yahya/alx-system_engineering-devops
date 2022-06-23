@@ -1,1 +1,1 @@
-pringts
+prints all groups
