@@ -1,1 +1,1 @@
-permission to the owner, the group owner
+sets the permission to the file hello
