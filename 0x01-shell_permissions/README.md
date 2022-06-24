@@ -1,1 +1,1 @@
-script that sets the mode of the file hello
+set two files same mode
