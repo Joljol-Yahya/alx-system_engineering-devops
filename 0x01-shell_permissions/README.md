@@ -1,1 +1,1 @@
-reads and executes
+adds execute permission
