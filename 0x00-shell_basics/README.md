@@ -1,1 +1,1 @@
-Directories moving
+Deletes five directories
