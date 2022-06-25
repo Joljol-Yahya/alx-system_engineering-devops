@@ -1,1 +1,1 @@
-sets the mode of the file hello the same as olleh’s mode
+sets the permission to 3 users
