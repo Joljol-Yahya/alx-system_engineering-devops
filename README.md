@@ -1,1 +1,1 @@
-script to change directory
+Delete diretory
