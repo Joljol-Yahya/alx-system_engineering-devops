@@ -1,1 +1,1 @@
-Creates directory with name
+Directories moving
