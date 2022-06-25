@@ -1,1 +1,1 @@
-sets the permission to 3 users
+that sets the mode of the file to another user
