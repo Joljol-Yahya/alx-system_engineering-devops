@@ -1,1 +1,1 @@
-long format
+Creates directory with name
