@@ -1,1 +1,1 @@
-echoes homedirectory
+changes home directory
