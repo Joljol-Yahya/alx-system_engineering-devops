@@ -1,1 +1,1 @@
-user home directory
+Displays content of the directory
