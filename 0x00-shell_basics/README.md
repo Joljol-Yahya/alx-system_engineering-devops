@@ -1,1 +1,1 @@
-Deletes five directories
+deleting of directories
