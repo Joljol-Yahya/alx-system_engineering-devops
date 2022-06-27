@@ -1,1 +1,1 @@
-displays the content of the file
+Display the contentof password
