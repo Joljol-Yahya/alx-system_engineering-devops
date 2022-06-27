@@ -1,1 +1,1 @@
-Displays the number of bins
+Display lines containing the pattern “root” and 3 lines
