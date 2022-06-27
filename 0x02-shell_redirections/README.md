@@ -1,1 +1,1 @@
-Script that prints all users
+prints all empty files
