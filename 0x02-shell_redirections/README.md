@@ -1,1 +1,1 @@
-Creates new words
+Display lines containing the pattern of root
