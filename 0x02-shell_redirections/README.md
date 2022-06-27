@@ -1,1 +1,1 @@
-Deletes all the files
+çCounts all diretories
