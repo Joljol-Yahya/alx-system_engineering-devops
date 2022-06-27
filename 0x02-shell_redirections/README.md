@@ -1,1 +1,1 @@
-Without C I will liv
+Script that prints all users
