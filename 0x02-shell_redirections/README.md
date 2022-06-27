@@ -1,1 +1,1 @@
-Prints hello world
+It is about smileies
