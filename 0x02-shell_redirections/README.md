@@ -1,1 +1,1 @@
-Writes into another file
+Deletes all the files
