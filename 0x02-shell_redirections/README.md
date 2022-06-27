@@ -1,1 +1,1 @@
-displasy the number of files that contain bin
+Displays the number of bins
