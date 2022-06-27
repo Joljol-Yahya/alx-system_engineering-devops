@@ -1,1 +1,1 @@
-Display lines containing the pattern of root
+echo Display the number of lines that contain the pattern
