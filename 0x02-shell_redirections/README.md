@@ -1,1 +1,1 @@
-echo Display the number of lines that contain the pattern
+displasy the number of files that contain bin
