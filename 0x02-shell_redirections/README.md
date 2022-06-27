@@ -1,1 +1,1 @@
-creates school name
+Writes into another file
