@@ -1,1 +1,1 @@
-çCounts all diretories
+displays the 10 newest files
