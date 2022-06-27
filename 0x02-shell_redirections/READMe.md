@@ -1,2 +1,1 @@
-
-Dipulcates the last line
+Script that reverses its input
