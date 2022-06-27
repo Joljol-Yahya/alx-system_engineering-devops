@@ -1,1 +1,1 @@
-It is about smileies
+displays the content of the file
