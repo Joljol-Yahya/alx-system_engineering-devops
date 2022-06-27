@@ -1,1 +1,1 @@
-displays files containing in the files
+Display all lines of the file of config
