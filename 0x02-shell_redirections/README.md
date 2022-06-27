@@ -1,1 +1,1 @@
-Displays 10
+Only displays third line
