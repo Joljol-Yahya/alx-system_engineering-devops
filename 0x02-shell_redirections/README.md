@@ -1,1 +1,1 @@
-Display the contentof password
+Display the last 10 lines
