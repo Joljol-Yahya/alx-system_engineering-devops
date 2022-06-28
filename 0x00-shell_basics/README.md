@@ -1,1 +1,1 @@
-Prints file name according to their type
+Creates new links to other files
