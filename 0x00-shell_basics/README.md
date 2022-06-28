@@ -1,1 +1,1 @@
-Creates new links to other files
+Script that copies
