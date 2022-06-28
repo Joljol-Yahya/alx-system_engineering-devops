@@ -1,1 +1,1 @@
-Looks into programs
+counts the number of paths
