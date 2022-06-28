@@ -1,1 +1,1 @@
-counts the number of paths
+Counts the number of files
