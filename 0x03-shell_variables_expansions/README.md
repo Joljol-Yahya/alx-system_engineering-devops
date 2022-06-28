@@ -1,1 +1,1 @@
-Counts the number of files
+Shows environs
