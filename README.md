@@ -1,1 +1,1 @@
-Delete diretory
+Writes alias command
