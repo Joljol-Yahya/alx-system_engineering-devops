@@ -1,1 +1,1 @@
-Prints the result of two words
+prints every other line from the input
