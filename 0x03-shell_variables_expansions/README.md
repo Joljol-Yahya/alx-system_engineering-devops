@@ -1,1 +1,1 @@
-Adds numbers with words
+Prints the results
