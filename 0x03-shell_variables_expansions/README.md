@@ -1,1 +1,1 @@
-Creates global variable
+Adds numbers with words
