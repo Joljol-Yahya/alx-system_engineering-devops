@@ -1,1 +1,1 @@
-Creates new local varaibles
+Creates global varaible
