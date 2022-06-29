@@ -1,1 +1,1 @@
-Deletes all with ~ at the end
+creates directories
