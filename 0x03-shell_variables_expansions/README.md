@@ -1,1 +1,1 @@
-Prints the results
+prints all combinations
