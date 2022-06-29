@@ -1,2 +1,3 @@
 #!/bin/bash
-export HOBERTON="Joljol"
+- export BEST="School"
++ export HOBERTON="Joljol"
