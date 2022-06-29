@@ -1,1 +1,1 @@
-coppecopies all the html
+Coppies all files
