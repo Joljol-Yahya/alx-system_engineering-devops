@@ -1,1 +1,1 @@
-Script that copies
+It lists all
