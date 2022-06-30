@@ -1,1 +1,1 @@
-Lists all files and directories
+Contains the magic file
