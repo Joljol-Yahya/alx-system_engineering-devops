@@ -1,1 +1,1 @@
-that sets the mode of the file to another user
+Changes group owernership
