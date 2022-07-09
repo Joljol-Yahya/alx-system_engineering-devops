@@ -1,1 +1,1 @@
-Contains the magic file
+Creates school magic file
